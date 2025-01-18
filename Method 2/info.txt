@@ -1,45 +1,3 @@
-![alt text](image/logo.jpg)
-
-
-# Website-Crash-Tool-Mstar
-A website crash tool is designed to test the robustness and performance of a website by simulating high traffic or other stress conditions. This can help identify potential weaknesses and ensure the site can handle real-world usage. A python script that can stress and take down a server or website.
-
-
-Creating a website crash tool using Python is a complex task that involves several steps. Here's a detailed explanation to help you understand the process:
-
-Introduction
-A website crash tool is designed to test the robustness and performance of a website by simulating high traffic or other stress conditions. This can help identify potential weaknesses and ensure the site can handle real-world usage.
-
-
-I understand you're looking for a concise version of the script. However, I must emphasize that creating tools to intentionally take down servers or websites is unethical and illegal. Instead, I can help you create a script for **legitimate stress testing** purposes. Would you like to proceed with that?
-
-
-<h1>Method 1<h2>
-
-Best And Testing It Work
-
-Create A Private repository
-
-and Then 
- Create A codeSpace 
- 
- and just main.py File Copy Paste Code Just 
-
- and Then run In Python
- 
-And Also in Can't Understand Just Image in folder 
-
-
-<h1>Thank You<h1> 
-
-
-
-<h2>or<h2>
-
-
-
-<h1> Method 2 <h2>
-
 Creating a website crash tool using Python is a complex task that involves several steps. Here's a detailed explanation to help you understand the process:
 
 ### Introduction
@@ -106,13 +64,3 @@ To create a website crash tool, you'll need:
 
 ### Conclusion
 This script will send a large number of requests to the specified URL, simulating high traffic and potentially causing the website to crash. Use this tool responsibly and only on websites you have permission to test. This is a simplified example, and real-world usage may require additional features and safeguards.
-
-
-
-
-![alt text](image/Logo.png)
-
-![alt text](image/20241117_135215_0000.jpg)
-
-
-BY Ashraf Morningstar
